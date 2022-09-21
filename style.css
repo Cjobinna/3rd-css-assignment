@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(238, 231, 222);
+}
+header{
+    background-color: rgb(43, 41, 41);
+    height: 50px;
+    width: 100%;
+}
+a{
+    color: rgb(205, 210, 214);
+    margin-top: 10px;
+}
+main{
+    width: 70%;
+    background-color: white;
+    margin: auto;
+    margin-top: 10px;
+}
+.s1{
+    text-align: center;
+    width: 70%;margin: auto;
+}
+.s2{
+    width: 90%;
+}
+section{
+    width: 50%;
+    text-align: center;
+    text-align: justify;
+    margin: auto;
+}
+.s3{
+    font-size: medium;
+    color: rgb(112, 109, 109);
+}
+footer{
+    text-align: center;
+}
